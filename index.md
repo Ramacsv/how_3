@@ -1,2 +1,6 @@
 # hello
-<img scr"banner(2).jpg">
+
+<img scr="banner(2).jpg">
+```
+Added Image
+```
